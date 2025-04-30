@@ -9251,6 +9251,7 @@ Loc	The Ice Hole	Initiative Penalty: -100, Item Drop Penalty: -100, Meat Drop Pe
 # it has no enchantments itself), with a "Synergetic" flag.
 # There is currently a limit of 32 total Synergetic items.
 
+Synergy April Shower Thoughts shield/Sensitive Fingers	Pickpocket Chance: +10
 Synergy	bewitching boots/bitter bowtie	Meat Drop: +10, Cold Resistance: +1
 Synergy	bitter bowtie/brazen bracelet	Meat Drop: +10, Cold Resistance: +1, Sleaze Resistance: +1
 Synergy	brazen bracelet/bewitching boots	Meat Drop: +10, Sleaze Resistance: +1
