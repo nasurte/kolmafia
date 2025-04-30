@@ -2141,7 +2141,7 @@ Item	antique nutcracker drumstick	MP Regen Min: 4, MP Regen Max: 8, Mysticality 
 Item	antique shield	Initiative: -10, Damage Reduction: 11, Breakable
 Item	antique spyglass	Reduce Enemy Defense: 15, Muscle Percent: +10, Mysticality Percent: +10, Moxie Percent: +10
 # April Shower Thoughts shield: Improves some of your class skills!
-Item	April Shower Thoughts shield	Muscle: +10, Mysticality: +10, Moxie: +10, Maximum HP: +25, Maximum MP: +25, Damage Reduction: 6, Last Available: "2025-04"
+Item	April Shower Thoughts shield	Muscle: +10, Mysticality: +10, Moxie: +10, Maximum HP: +25, Maximum MP: +25, Damage Reduction: 6, Last Available: "2025-04", Synergetic
 Item	Apriling band staff	Mysticality: +10, Mysticality Percent: +10, Spell Damage: +20, Spooky Resistance: +2, Sleaze Resistance: +2, Spell Damage Percent: +10, Lasts Until Rollover
 Item	arm buzzer	Maximum MP: +25, Damage Reduction: 6
 # arrow'd heart balloon
@@ -8870,7 +8870,7 @@ Skill	Sense of Propriety	Sleaze Resistance: +2
 Skill	Sense of Purpose	Experience: +5
 Skill	Sense of Sarcasm	Moxie: +20
 Skill	Sense of Style	Moxie: +5
-Skill	Sensitive Fingers	Pickpocket Chance: +10
+Skill	Sensitive Fingers	Pickpocket Chance: +10, Synergetic
 Skill	Seven Foot Feelings	Adventures: +5
 Skill	Sharp Eyes	Item Drop: +100, Maximum HP: -30
 Skill	Shifted About	Adventures: +5
